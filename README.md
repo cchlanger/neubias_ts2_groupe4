@@ -6,12 +6,12 @@ _Members: Nazar Oleksiievets, Enrico Di Iuri, Thomas Lendl, Irina Belaia, Christ
 ## Detailed Biological description
 
 ## Technical Data Description
-
+### Difficulties/Challenges
 # Image Analysis Tasks
 ## Biological Questions
 ## EDA
 ## Abstract Image Analysis Task Description
-
+# Failed Attempts
 # Solution
 ## Image processing
 ### Rotation and cropping
@@ -23,3 +23,5 @@ _Members: Nazar Oleksiievets, Enrico Di Iuri, Thomas Lendl, Irina Belaia, Christ
 ### Object labelling
 ### Object feature collection
 ## Object tracking
+# References
+# Presentation
